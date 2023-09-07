@@ -1,0 +1,6 @@
+AA - seat
+AB - remade for less complex geometry
+AC - changed dimensions for floor of seat to be wider, increased height of side walls on floor,
+	changed cross section shape for waist
+AD - widened lower end thigh cross section, changed all flanges to be equal in size and shape
+AE - a bit more space

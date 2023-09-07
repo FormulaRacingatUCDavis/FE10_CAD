@@ -1,0 +1,35 @@
+AA - Most of the sketches not constrained, much of rear section tbd
+AB -  Added tubes for shoulder harness and support under the seat.
+	The weldments and sketches for those tubes are in their own folder to make it easier to edit when
+	the seat changes
+AC - Reshaped front hoop and rear bulkhead and the suspension points. Removed horizontal bar in rear 
+AD - Remade to be more easily editable
+AE - Redid rear section for half shaft clearance. Redid RBH. Fixed most of the weird trim/extend
+AF - Changed front suspension plane so it's 9 inches from front hoop
+AG - Fixed some weird trim/extend issues
+AH - Redimensioned FSP, FBH, and FRH to match FE9 for steering rack
+AI - Remade the entire model with the correct axes templates
+AJ - Actually has correct axes now. Also changed front roll hoop shape slightly.
+AJ_1 - Fixed one trim/extend issue
+AK - The tubes along the X direction on the bottom of the frame are now two long bent pieces
+AL - Changed geometry to meet rule F.6.4.4. Decreased front roll hoop height for visibility, increased width of
+	front roll hoop and front bulkhead for legs and pedal fit. Changed tube sizes to decrease weight.
+AM - changed height of shoulder harness bar, changed thickness of shoulder harness bar
+AN - changed max height of front roll hoop slightly (0.25" shorter) to meet rule F.6.3.4,
+	changed forward FHB thickness to meet rules
+	changed rear FHB thickness to be thinner
+AO - Changed rear section to fit 17.9 wide x 20.4 wide accumulator. Wheelbase is now 1597mm (min is 1525mm) -> fix for next revision
+BA - redid whole chassis for fitting accumulator
+BB - suspension hard points in place
+CA - redid rear again for long accumulator
+CB - added a tube that i forgot in CA
+CC - new hard points, everything fits now??? except maybe controls
+CD - half shaft clearance, inserting accumulator clearance
+CE - made a lot of tubes bent, redid rear suspension area, added square tubes
+CH - bent shoulder harness bar, changed front roll hoop and main roll hoop heights to fit percy
+CI - square front roll hoop
+CK - fix for triangulation issues
+DA - big rear change
+DB - new rear suspension points, other small changes
+EA - change rear again, move shoulder harness bar
+EB - remove some tubes, change shoulder harness bar shape, change some square tubes to round
